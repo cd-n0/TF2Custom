@@ -1,0 +1,3 @@
+[submodule "cdn0-modifieddefaulthud"]
+	path = cdn0-modifieddefaulthud
+	url = https://github.com/cd-n0/cdn0-modifieddefaulthud.git

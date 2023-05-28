@@ -1,0 +1,3 @@
+scripts = nosoundscapes and no explosion particles
+particles = halloween souls
+others are hitsounds and some annoying sounds that are removed

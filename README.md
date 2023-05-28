@@ -1,0 +1,1 @@
+I constantly change mastercomfig vpk's so just use [this](https://github.com/cd-n0/mastercomfigmanager "Mastercomfig Management Shell Script") shell script or download it fresh from the [official repo](https://github.com/mastercomfig/mastercomfig/releases/latest "Mastercomfig Latest Release")
