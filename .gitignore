@@ -1,0 +1,9 @@
+# mastercomfig vpk's
+
+mastercomfig-*.vpk
+
+# sound.cache files
+*.sound.cache
+
+# maps
+mah scripts/maps
